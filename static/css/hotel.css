@@ -1,0 +1,24 @@
+.jum{
+   
+    padding: 20px 100px  10px 90px ;
+}
+#m{background-color: rgb(252, 236, 215);
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+    font-weight:500;
+}
+#nm{
+    background-color: rgb(252, 236, 215);
+    font-family: Tahoma, Verdana, sans-serif;
+    color: black;
+}
+#li{
+    font-weight:600;
+    color: black;
+}
+#l1{
+    color: black;
+}
+#dp{
+    font-size: 1.25rem;
+}

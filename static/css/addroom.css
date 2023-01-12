@@ -1,0 +1,56 @@
+.jum{
+   
+    padding: 5px 450px  50px 500px ;
+}
+#m{background-color: rgb(252, 236, 215);
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+    font-weight:500;
+}
+#nm{
+    background-color: rgb(252, 236, 215);
+    font-family: Tahoma, Verdana, sans-serif;
+    color: black;
+}
+#li{
+    font-weight:600;
+    color: black;
+    
+
+}
+#l1{
+    color: black;
+}
+h4{
+  font-family:"Courier New", Courier, monospace;
+}
+body, html {
+    max-width:100%;
+      height: auto;
+    }
+    
+    * {
+      box-sizing: border-box;
+    }
+    
+    .bg-image {
+      
+      background-image: url("/static/images/mn1.jpg");
+    
+     
+      
+      
+      background-position: center;
+      
+      background-size: cover;
+    }
+    .h{
+      background-image: url('/static/images/heading.png');
+      width: 1200;
+      height: 50;
+      font-family:"Courier New", Courier, monospace;
+    }
+    p.p{
+      font-family:"Brush Script MT", cursive;
+      font-size: 20px;
+    }
